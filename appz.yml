@@ -1,7 +1,7 @@
 app:
     name: Mongodb Express
     code: mongodbexpress
-    notify: appzdev@cloudbourne.co
+    notify: svarkey@ecloudcontrol.com
 
 build:
     version: 0.1
@@ -11,7 +11,7 @@ build:
     image_template: mongodbexpress-0.54
 
 deploy:
-    context: alpha/DEV
+    context: shonecloudcontrol/DEV
     replicas: 1
     port:
     - 8081
