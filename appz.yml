@@ -27,4 +27,4 @@ properties:
     ME_CONFIG_BASICAUTH_USERNAME: user1
     ME_CONFIG_BASICAUTH_PASSWORD:
          vault: MONGODB_BASIC_AUTH_PASSWORD
-    revision: 20
+    revision: 21
