@@ -27,4 +27,4 @@ properties:
     ME_CONFIG_BASICAUTH_USERNAME: wolverine
     ME_CONFIG_BASICAUTH_PASSWORD:
          vault: MONGODB_BASIC_AUTH_PASSWORD
-    revision: 25
+    revision: 26
